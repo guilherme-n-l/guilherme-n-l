@@ -16,7 +16,7 @@ I'm a computer science major studying at Inteli (Instituto de Tecnologia e Lider
 
 [NisAI (Predictive Model)](https://github.com/2023M3T5-Inteli/grupo1)
 
-[(IoT Tracker)](https://github.com/2023M4T5-Inteli/Projeto3)
+[The Tech (IoT Tracker)](https://github.com/2023M4T5-Inteli/Projeto3)
 
 ### Personal projects
 
