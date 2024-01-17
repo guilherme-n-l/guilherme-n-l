@@ -18,6 +18,10 @@ I'm a computer science major studying at Inteli (Instituto de Tecnologia e Lider
 
 [The Tech (IoT Tracker)](https://github.com/2023M4T5-Inteli/Projeto3)
 
+[One Beer 2 U (Optimization algorithm)](https://github.com/InteliProjects/2023M5T5-Inteli-grupo3)
+
+[Vitalis (Optimization algorithm)](https://github.com/2023M6T5Inteli/g3-vitalis)
+
 ### Personal projects
 
 ## Social media
