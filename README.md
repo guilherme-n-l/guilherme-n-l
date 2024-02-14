@@ -20,7 +20,7 @@ I'm a computer science major studying at Inteli (Instituto de Tecnologia e Lider
 
 [One Beer 2 U (Optimization algorithm)](https://github.com/InteliProjects/2023M5T5-Inteli-grupo3)
 
-[Vitalis (Optimization algorithm)](https://github.com/2023M6T5Inteli/g3-vitalis)
+[Vitalis (Optimization algorithm)](https://github.com/InteliProjects/2023M6T5Inteli-g3-vitalis)
 
 ### Personal projects
 
