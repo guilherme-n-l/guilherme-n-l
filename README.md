@@ -10,7 +10,25 @@
 
 ## About me
 
-I'm a computer science major studying at Inteli (Instituto de Tecnologia e Liderança). My goal is to create organized and [suckless](https://suckless.org/philosophy/)-like software. You know, the kind of stuff that makes life easier for everyone.
+I'm currently a computer science major studying at Inteli (Instituto de Tecnologia e Liderança). I enjoy watching open source application development and my goal is to work in cloud development or scientific computing.
+
+## Experience
+
+### Programming languages learned:
+
+<div align=center style="display:flex">
+<a href="https://go.dev/"><img src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/234px-Java_programming_language_logo.svg.png?20190828223431" width="5%"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" width="5%"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://isocpp.org/"><img src="https://isocpp.org/assets/images/cpp_logo.png" width="5%"/></a>
+</div>
+
+### Programming languages currently in-learning:
+
+<div align=center style="display:flex">
+<a href="https://go.dev/"><img src="https://go.dev/images/go-logo-white.svg" width="5%"/></a>
+</div>
 
 ## Projects
 
@@ -32,11 +50,16 @@ I'm a computer science major studying at Inteli (Instituto de Tecnologia e Lider
 
 ## Social media
 
-<a href="https://www.linkedin.com/in/guilherme-novaes-lima/"><img width="2%" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/></a>
-<a href="https://open.spotify.com/user/guilherm2809?si=cee66ec35f574a09"><img width="2%" src="https://i.imgur.com/IbrnDLV.png"/></a>
-<a href="https://discordid.netlify.app/?id=351103622395854851"><img width="2%" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png"/></a>
-<a href="https://www.instagram.com/guilh_n_l/"><img width="2%" src="https://i.imgur.com/cG2qwKr.png"/></a>
-<a href="https://anilist.co/user/TheCoffeeMF/"><img width="2%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/AniList_logo.svg/768px-AniList_logo.svg.png?20220330011134"/></a>
+
+<div style="display:flex">
+<a href="https://www.linkedin.com/in/guilherme-novaes-lima/"><img width="4%" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://open.spotify.com/user/guilherm2809?si=cee66ec35f574a09"><img width="4%" src="https://i.imgur.com/IbrnDLV.png"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://discordid.netlify.app/?id=351103622395854851"><img width="4%" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/guilh_n_l/"><img width="4%" src="https://i.imgur.com/cG2qwKr.png"/></a>
+</div>
 
 ## Donations
 
