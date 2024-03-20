@@ -46,21 +46,6 @@ I'm currently a computer science major studying at Inteli (Instituto de Tecnolog
 
 [Vitalis (Optimization algorithm)](https://github.com/InteliProjects/2023M6T5Inteli-g3-vitalis)
 
-### Personal projects
-
-## Social media
-
-
-<div style="display:flex">
-<a href="https://www.linkedin.com/in/guilherme-novaes-lima/"><img width="4%" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://open.spotify.com/user/guilherm2809?si=cee66ec35f574a09"><img width="4%" src="https://i.imgur.com/IbrnDLV.png"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://discordid.netlify.app/?id=351103622395854851"><img width="4%" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/guilh_n_l/"><img width="4%" src="https://i.imgur.com/cG2qwKr.png"/></a>
-</div>
-
 ## Donations
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/guinovaeslima)
