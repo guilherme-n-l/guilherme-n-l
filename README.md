@@ -1,6 +1,12 @@
 # Hi, I'm Guilherme. Nice to meet you.
 
-![](https://media.licdn.com/dms/image/D4D16AQHxqYkSanjX7w/profile-displaybackgroundimage-shrink_350_1400/0/1680700445850?e=1688601600&v=beta&t=3CkISjId5It_avU7u5poA_XcQZGbHKvhp2o7k-xVwLw)
+<div align=center style="display:flex">
+  <a href="https://github.com/guilherme-n-l"><img src="https://avatars.githubusercontent.com/u/95086304?v=4" width="20%"/></a>
+  <a href="https://github.com/guilh-n-l"><img src="https://avatars.githubusercontent.com/u/110556149?v=4" width="20%"/></a>
+</div>
+<div align=center>
+  <p>My Personal and uni accounts</p>
+</div>
 
 ## About me
 
