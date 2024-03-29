@@ -14,21 +14,21 @@ I'm currently a computer science major studying at Inteli (Instituto de Tecnolog
 
 ## Experience
 
-### Programming languages learned:
+### Main Skills:
 
-<div align=center style="display:flex">
-<a href="https://go.dev/"><img src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/234px-Java_programming_language_logo.svg.png?20190828223431" width="5%"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" width="5%"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://isocpp.org/"><img src="https://isocpp.org/assets/images/cpp_logo.png" width="5%"/></a>
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,js,bash,linux,aws" />
+  </a>
+</p>
 
-### Programming languages currently in-learning:
+### Currently learning:
 
-<div align=center style="display:flex">
-<a href="https://go.dev/"><img src="https://go.dev/images/go-logo-white.svg" width="5%"/></a>
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,rust" />
+  </a>
+</p>
 
 ## Projects
 
