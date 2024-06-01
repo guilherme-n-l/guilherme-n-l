@@ -10,7 +10,7 @@
 
 ## About me
 
-I'm currently a computer science major studying at Inteli (Instituto de Tecnologia e Liderança). I enjoy watching open source application development and my goal is to work in cloud development or scientific computing.
+I'm currently a computer science major studying at Inteli (Instituto de Tecnologia e Liderança). I enjoy watching open source application development and my goal is to work in cloud development, devOps or scientific computing.
 
 ## Experience
 
@@ -18,7 +18,7 @@ I'm currently a computer science major studying at Inteli (Instituto de Tecnolog
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,js,bash,linux,aws" />
+    <img src="https://skillicons.dev/icons?i=java,py,js,go,bash,linux,aws" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@ I'm currently a computer science major studying at Inteli (Instituto de Tecnolog
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,rust" />
+    <img src="https://skillicons.dev/icons?i=c,cpp" />
   </a>
 </p>
 
