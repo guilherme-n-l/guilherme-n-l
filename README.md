@@ -1,8 +1,9 @@
 # Hi, I'm Guilherme. Nice to meet you.
 
 <div align=center style="display:flex">
-  <a href="https://github.com/guilherme-n-l"><img src="https://avatars.githubusercontent.com/u/95086304?v=4" width="20%"/></a>
-  <a href="https://github.com/guilh-n-l"><img src="https://avatars.githubusercontent.com/u/110556149?v=4" width="20%"/></a>
+  <a href="https://github.com/guilherme-n-l"><img src="https://avatars.githubusercontent.com/u/95086304?v=4" width="15%"/></a>
+  <img width="2%">
+  <a href="https://github.com/guilh-n-l"><img src="https://avatars.githubusercontent.com/u/110556149?v=4" width="15%"/></a>
 </div>
 <div align=center>
   <p>My Personal and uni accounts</p>
