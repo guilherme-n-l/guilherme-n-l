@@ -17,17 +17,19 @@ I'm currently a computer science major studying at Inteli (Instituto de Tecnolog
 
 ### Main skills:
 
+#### Programming
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,js,go,bash,linux,aws" />
+    <img src="https://skillicons.dev/icons?i=java,py,js,go,c,cpp" />
   </a>
 </p>
 
-### Currently learning:
+#### Infrastructure / Cloud / DevOps / Platform engineering
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp" />
+    <img src="https://skillicons.dev/icons?i=bash,linux,docker,kubernetes,aws,azure,gcp" />
   </a>
 </p>
 
@@ -50,6 +52,8 @@ I'm currently a computer science major studying at Inteli (Instituto de Tecnolog
   <a href="https://www.credly.com/badges/b8a084bc-6f78-47a4-9889-2c24037181fc/public_url"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="15%"/></a>
   <img width="2%">
   <a href="https://www.credly.com/badges/0d31204d-46c2-4383-8f86-02604fa8d3cc/public_url"><img src="https://images.credly.com/size/340x340/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" width="15%"/></a>
+  <img width="2%">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/GuilhermeNovaesLima-1409/84AA3A0FE9C17359?sharingId=5FF1BEEC0264BE57"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="15%"/></a>
   <img width="2%">
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=2F0A3091E3ACF2988FA1E44E85349CC83008BCDDA02EDC89C4B5C6650CE5C1A9"><img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI2024FNDCFA.png" width="25%"/></a>
 </div>
