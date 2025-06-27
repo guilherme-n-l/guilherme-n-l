@@ -21,7 +21,7 @@ I'm currently a computer science major studying at Inteli (Instituto de Tecnolog
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,js,go,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=java,py,js,go,c,cpp,nix" />
   </a>
 </p>
 
