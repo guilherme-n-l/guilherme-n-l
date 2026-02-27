@@ -37,13 +37,13 @@ I'm currently a computer science major studying at Inteli (Instituto de Tecnolog
 
 
 <div align=center style="display:flex">
-  <a href="https://www.credly.com/badges/cc745578-3992-4320-99c2-719247beb45e/public_url"><img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="15%"/></a>
+  <a href="https://www.credly.com/badges/cc745578-3992-4320-99c2-719247beb45e/public_url"><img src="https://images.credly.com/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" width="15%"/></a>
   <img width="2%">
-  <a href="https://www.credly.com/badges/595973f3-9ebe-4cf9-8ae4-1dafb98c1b4d/public_url"><img src="https://images.credly.com/size/340x340/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png" width="15%"/></a>
+  <a href="https://www.credly.com/badges/595973f3-9ebe-4cf9-8ae4-1dafb98c1b4d/public_url"><img src="https://images.credly.com/images/fcafd0c9-42da-4703-a191-0c397203dc1b/blob" width="15%"/></a>
   <img width="2%">
-  <a href="https://www.credly.com/badges/b7ed1ba1-ad3f-463f-b02a-2f8ec7256fb9/public_url"><img src="https://images.credly.com/size/340x340/images/119182cf-ca68-495a-a415-bff62dfdcc7e/image.png" width="15%"/></a>
+  <a href="https://www.credly.com/badges/b7ed1ba1-ad3f-463f-b02a-2f8ec7256fb9/public_url"><img src="https://images.credly.com/images/bb3211c0-a562-44ec-a8b5-df54deb0e5e9/blob" width="15%"/></a>
   <img width="2%">
-  <a href="https://www.credly.com/badges/1332c5ea-3c0a-4946-916c-9e413066baa9/public_url"><img src="https://images.credly.com/size/340x340/images/81fad72d-a948-409f-a979-0c1bf67b39ab/image.png" width="15%"/></a>
+  <a href="https://www.credly.com/badges/1332c5ea-3c0a-4946-916c-9e413066baa9/public_url"><img src="https://images.credly.com/images/7f7ea828-a10d-44f8-8baa-58a9c1af7671/blob" width="15%"/></a>
   <img width="2%">
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=372EDF5A3BA1379C29F4EC56B659A6662063787DBC462AF6F56F3EA3EBB13DE7"><img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI24AICFA.png" width="25%"/></a>
 </div>
